@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I am Ahmed from Egypt
 
-###### As a dedicated and passionate Data Science undergraduate at the Faculty of Artificial Intelligence, Menofia University, I am committed to both expanding my academical knowledge as well as gaining hands-on experience to excel in the fields of data science and artificial intelligence in addition to enhancing my soft skills related to the field. I am excited to gain practical experience through internships in data science, artificial intelligence, and software development. My goal is to apply my academical knowledge and creative mind in real-world settings, continuously learning and improving.
+##### As a dedicated and passionate Data Science undergraduate at the Faculty of Artificial Intelligence, Menofia University, I am committed to both expanding my academical knowledge as well as gaining hands-on experience to excel in the fields of data science and artificial intelligence in addition to enhancing my soft skills related to the field. I am excited to gain practical experience through internships in data science, artificial intelligence, and software development. My goal is to apply my academical knowledge and creative mind in real-world settings, continuously learning and improving.
 
 ___
 ___
