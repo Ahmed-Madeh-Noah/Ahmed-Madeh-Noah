@@ -10,6 +10,4 @@ ___
 |[<img src='https://raw.githubusercontent.com/Ahmed-Madeh-Noah/Ahmed-Madeh-Noah/0e42b45042e8df80064252569e0301dd6d9a971f/assets/LinkedIn.svg' alt='LinkedIn' height='75' width='75'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmed-madeh-noah//)|[<img src='https://raw.githubusercontent.com/Ahmed-Madeh-Noah/Ahmed-Madeh-Noah/0e42b45042e8df80064252569e0301dd6d9a971f/assets/Gmail.svg' alt='Gmail' height='75' width='100'>](mailto:ahmed.madeh.noah@gmail.com)|[<img src='https://raw.githubusercontent.com/Ahmed-Madeh-Noah/Ahmed-Madeh-Noah/0e42b45042e8df80064252569e0301dd6d9a971f/assets/WhatsApp.svg' alt='WhatsApp' height='75' width='75'>](https://wa.me/qr/UOZP43PFGAD7E1)|[<img src='https://raw.githubusercontent.com/Ahmed-Madeh-Noah/Ahmed-Madeh-Noah/0e42b45042e8df80064252569e0301dd6d9a971f/assets/Facebook.svg' alt='Facebook' height='75' width='75'>](https://www.facebook.com/ahmed.madeh.noah)|
 |:---:|:---:|:---:|:---:|
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Madeh-Noah&show_icons=true&count_private=true)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Ahmed-Madeh-Noah)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Madeh-Noah&show_icons=true&count_private=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Ahmed-Madeh-Noah)
