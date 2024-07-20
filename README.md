@@ -11,13 +11,4 @@ Skills: CPP / Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmed-madeh-noah//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ahmed.madeh.noah)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Ahmed-Madeh-Noah)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Ahmed-Madeh-Noah&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Ahmed-Madeh-Noah/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Ahmed-Madeh-Noah)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Ahmed-Madeh-Noah)  
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Madeh-Noah)](https://github.com/anuraghazra/github-readme-stats)
