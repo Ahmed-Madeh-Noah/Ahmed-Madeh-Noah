@@ -12,6 +12,4 @@ ___
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Madeh-Noah&show_icons=true&locale=en&layout=compact" alt="Ahmed-Madeh-Noah"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Madeh-Noah&show_icons=true&count_private=true)
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Ahmed-Madeh-Noah)
