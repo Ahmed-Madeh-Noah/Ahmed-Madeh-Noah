@@ -135,3 +135,5 @@ ___
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Madeh-Noah&layout=compact&langs_count=8&card_width=320&size_weight=0.00&count_weight=1"
         alt="Top Langs Stats"/>
 </a>
+
+![Snake animation](https://github.com/Ahmed-Madeh-Noah/Ahmed-Madeh-Noah/blob/output/github-contribution-grid-snake.svg)
