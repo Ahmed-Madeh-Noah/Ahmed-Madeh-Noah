@@ -98,14 +98,12 @@ projects.
 
 ## Featured Projects
 
-<a>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Madeh-Noah&repo=Obesity-Level-Prediction"
-    alt="Obesity-Level-Prediction"/>
-</a>
-<a>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Madeh-Noah&repo=ATM-Software-Simulator"
-    alt="ATM-Software-Simulator"/>
-</a>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Madeh-Noah&repo=Obesity-Level-Prediction" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Madeh-Noah&repo=ATM-Software-Simulator" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -127,11 +125,9 @@ ___
 
 ## GitHub Stats
 
-<a>
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Ahmed-Madeh-Noah"  alt="Contribution Stats"/>
-</a>
-<a>
-  <img height=200
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Madeh-Noah&layout=compact&langs_count=8&card_width=320&size_weight=0.00&count_weight=1"
-        alt="Top Langs Stats"/>
-</a>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Madeh-Noah&hide=issues" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Madeh-Noah&layout=compact&size_weight=0&count_weight=1" /></td>
+  </tr>
+</table>
