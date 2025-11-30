@@ -96,17 +96,6 @@ projects.
 
 ---
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Madeh-Noah&repo=Obesity-Level-Prediction" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Madeh-Noah&repo=ATM-Software-Simulator" /></td>
-  </tr>
-</table>
-
----
-
 ## Learning & Future Goals
 
 ### Currently Learning
